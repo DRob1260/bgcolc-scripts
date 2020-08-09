@@ -1,0 +1,22 @@
+{
+  "name": "bgcolc-scripts",
+  "version": "1.0.0",
+  "description": "Automated scripts for processes supporting the Boys & Girls Club of Livingston County.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRob1260/bgcolc-scripts.git"
+  },
+  "author": "Drew Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DRob1260/bgcolc-scripts/issues"
+  },
+  "homepage": "https://github.com/DRob1260/bgcolc-scripts#readme",
+  "dependencies": {
+    "cypress": "^4.12.1"
+  }
+}
